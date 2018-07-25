@@ -24,3 +24,10 @@ Extracts only the measurements on the mean and standard deviation for each measu
 Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+# run_analysis .R
+1. Download files
+2. Merge the training data and test data
+3. Extract the variables of mean and std
+4. rename the features with descriptive name
+5. writetable to create new tidy dataset
